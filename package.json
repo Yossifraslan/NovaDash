@@ -1,7 +1,7 @@
 {
   "name": "react-admin",
   "version": "1.0.2",
-  "homepage": "./build",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
