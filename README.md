@@ -76,6 +76,8 @@ Open your browser at http://localhost:3000
 ---
 
 ---
+## References
+I watched this youtube video to learn how to fully function react for the first time -> https://www.youtube.com/watch?v=wYpCWwD1oz0&list=PLEYW3pZS6IQ_a-iYAno4VsZonrikphq8L
 
 ## 🛠️ Tech Stack
  - **Frontend:** React.js 
